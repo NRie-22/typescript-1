@@ -1,1 +1,1 @@
-# typescript-1
+# goit-typescript-hw-01
